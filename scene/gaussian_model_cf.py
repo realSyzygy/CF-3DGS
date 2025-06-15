@@ -25,7 +25,7 @@ from scipy.spatial.transform import Rotation as R
 import math
 
 
-from diff_gaussian_rasterization import (
+from diff_gaussian_rasterization_depth_alpha import (
     GaussianRasterizationSettings,
     GaussianRasterizer,
 )
